@@ -13,7 +13,7 @@ Here are a few features of this template.
 
 ## Some issues to know
 * Make sure you have installed LaTeX.
-* Using the Book Antiqua font and Book Antiqua Bold font in the English template, make sure your system has installed this font. This font is so elegant that I set it as mainfont of the English template. 
+* Using the Book Antiqua font and Book Antiqua Bold font in the English template, make sure your system has installed this font. This font is so elegant that I set it as mainfont of the English template. (ps: If you need them, you can find them in the font folder.)
 
 ## Using
  * If you want the Chinese version, pls run ``xelatex LabReport_Ch.tex``. 
