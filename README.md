@@ -1,4 +1,4 @@
-# LabReport
+# LaTex-LabReport-Template
 
 This LaTeX Report Template includes both Chinese and English versions.At frist, this repository is for students in Nanjing University of Sci & Tech(NJUST) to write experimental reports more efficiently.
 
