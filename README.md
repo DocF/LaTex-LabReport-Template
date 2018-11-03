@@ -18,3 +18,10 @@ Here are a few features of this template.
 ## Using
  * If you want the Chinese version, pls run ``xelatex LabReport_Ch.tex``. 
  * If you want the English version, pls run ``xelatex LabReport_En.tex``.
+
+## Screenshots
+Only two covers of the two templates are provided here. If you want to see more details, pls download two PDF files(the LabReport_Ch.pdf and the LabReport_En.pdf).
+  ### Coverpage(EN)
+  ![Coverpage(EN)](https://github.com/DocF/LaTex-LabReport-Template/blob/master/figure/LabReport_En.png)
+  ### Coverpage(CH)    
+  ![Coverpage(CH)](https://github.com/DocF/LaTex-LabReport-Template/blob/master/figure/LabReport_Ch.png)
