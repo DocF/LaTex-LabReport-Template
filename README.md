@@ -1,12 +1,20 @@
-# NjustLabReport
+# LabReport
 
-This is a laboratory report(LabReport) for almost all students in NUST.
+This LaTeX Report Template includes both Chinese and English versions.At frist, this repository is for students in Nanjing University of Sci & Tech(NJUST) to write experimental reports more efficiently.
 
-## Descrtiption 
-非官方版南理工实验报告模板，比较干净清爽，喜欢的同学可以拿去下载。
+Since my girlfriend became a student in National University of Singapore (Suzhou) Research Institute (NUSRI), she may need an English report template to finish her coursework. So I modified the original Chinese version to complete the English version. Although it is designed for students in NUSRI, it can also be used for students from other universities, just replace the figure on the cover with what you need.
 
-## Using：
+## Features
+Here are a few features of this template.
+ * support both Chinese and English 
+ * support simple title page
+ * support abstract and contents
+ * support custom header
 
-    使用TeX发行版本：TeXlive，使用TeXstudio+XeLaTeX命令编译；
+## Some issues to know
+* Make sure you have installed LaTeX.
+* Using the Book Antiqua font and Book Antiqua Bold font in the English template, make sure your system has installed this font. This font is so elegant that I set it as mainfont of the English template. 
 
-    运行NJUSTmain文件。
+## Using
+ * If you want the Chinese version, pls run ``xelatex LabReport_Ch.tex``. 
+ * If you want the English version, pls run ``xelatex LabReport_En.tex``.
