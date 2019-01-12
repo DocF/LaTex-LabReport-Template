@@ -10,6 +10,7 @@ Here are a few features of this template.
  * support simple title page
  * support abstract and contents
  * support custom header
+ * support native MATLAB code style
 
 ## Some issues to know
 * Make sure you have installed LaTeX.
